@@ -94,3 +94,10 @@
 예를들어 10진수 0.1을 2진수로 변환하면 2진 무한소수가 되어버리기 때문에 할당된 메모리의 크기에 따라 반올림을 처리한다.
 
 아래는 float 자료형에 0.1을 소수 20번째까지 출력한 예로 오차를 확인할 수 있다.
+
+
+
+#### 참고
+- https://youtu.be/g_S24b9Q2_8
+- https://ko.wikipedia.org/wiki/IEEE_754
+- https://thrillfighter.tistory.com/349#recentEntries
