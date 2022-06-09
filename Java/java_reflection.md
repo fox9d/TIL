@@ -26,3 +26,8 @@ System.out.println(c2.getName());
 String constructor = String.valueOf(c2.getConstructor());  
 System.out.println(constructor);
 ```
+
+
+---
+참고
+- 신용권. 이것이 자바다. 출판지: 한빛미디어(주)
