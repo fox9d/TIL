@@ -1,5 +1,5 @@
 # Reflection
-- class의 타입을 모를 때 class의 정보에 접근을 가능하게 해주는 JavaAPI
+- 런타임 시점에 class의 메타정보에 접근을 가능하게 해주는 JavaAPI
 
 - 부모 타입으로 인스턴스를 생성했지만 자식이 가진 메서드를 사용하고 싶을때, reflectionAPI를 사용하여 실행할 수 있다.
 	- 사용자가 작성하는 클래스의 정보는 static환경에 저장된다.
